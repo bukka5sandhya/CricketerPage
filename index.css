@@ -1,0 +1,82 @@
+body{
+    margin:0px;
+}
+.top-bg-container{
+    background-color: #fb4e71;
+    background-size: cover;
+    height:40vh;
+}
+.main-heading{
+    color:#ffffff;
+    font-family: "Roboto";
+    font-size:30px;
+    padding:10px;
+    font-weight:bold;
+}
+.main-para{
+    color:#ffffff;
+    font-family: "Roboto";
+    font-size:15px;
+    padding:10px;
+}
+.rahul-image{
+    height:200px;
+    width:200px;
+    padding-left:100px;
+}
+.bottom-bg-container{
+    background-color: #e6f6ff;
+    height:100vh;
+
+}
+.bottom-heading{
+    color:#323f4b;
+    font-family: "Roboto";
+    font-size:20px;
+    font-weight: bold;
+    padding:10px;
+}
+.bottom-first-image{
+    height:200px;
+    width:200px;
+    margin-left:10px;
+}
+.bottom-first-card{
+    background-color: #ffffff;
+    width:25vw;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding:10px;
+
+
+}
+.bottom-card-heading{
+    color:#323f4b;
+    font-family: "Roboto";
+    font-size:20px;
+    padding-bottom:10px;
+    font-weight:bold;
+}
+.bottom-card-para{
+    color:#888888;
+    font-family: "Roboto";
+    font-size:15px;
+    padding-bottom:10px;
+}
+.bottom-video-image{
+    margin-left:80px;
+    height:200px;
+    width:200px;
+}
+.video-description{
+    color:#323f4b;
+    font-family: "Roboto";
+    font-size:20px;
+    font-weight: bold;
+    margin-left:80px;
+}
+.learn-button{
+    border-width:0px;
+    border-radius:8px;
+
+}
